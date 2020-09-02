@@ -1,11 +1,16 @@
 body {
   margin: 0;
-  background-color: #00bfc7
+  background-color: #00dee7;
 }
 
 header {
   background-color: #0B1C51;
   margin-bottom: 40px;
+}
+.list/*for list on happybirthday siad 61 times page*/
+{
+  text-align: center;
+  font-family: Helvetica;
 }
 
 header h1 {
