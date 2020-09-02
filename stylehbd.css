@@ -7,7 +7,13 @@ header {
   background-color: #0B1C51;
   margin-bottom: 40px;
 }
-.list/*for list on happybirthday siad 61 times page*/
+h2
+{
+  text-align: center;
+  font-family: helvetica;
+}
+  
+#list/*for list on happybirthday siad 61 times page*/
 {
   text-align: center;
   font-family: Helvetica;
